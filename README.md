@@ -25,7 +25,7 @@
 | 4 | Đỗ Minh Trí | 19520307 | Thành viên | 19520307@gm.uit.edu.vn |
 
 ## CHỦ ĐỀ BÁO CÁO
-     Giới thiệu phương pháp thiết kế thuật toán: Geometric Algorithms (1)
+*    **Giới thiệu phương pháp thiết kế thuật toán: Geometric Algorithms (1)**
 
 ## Week
 
