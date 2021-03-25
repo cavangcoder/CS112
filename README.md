@@ -17,8 +17,8 @@
 | Cao Đức Trí | 19520305 | 19520305@gm.uit.edu.vn |
 | Đỗ Minh Trí | 19520307 | 19520307@gm.uit.edu.vn |
 
-## Week
+## Quá trình học tập
 
-- [x] [Week_3](Week_3)
+- [x] [Tuần_3](Week_3)
   - [x] [BOT - Trạm thu phí](Week_3/BOT)
   - [x] [SEAWEED - Tảo biển](Week_3/SEAWEED)
