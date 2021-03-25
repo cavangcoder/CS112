@@ -5,7 +5,7 @@
 * **Môn học:** PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - CS112
 * **Lớp:** CS112.L21
 * **Năm học:** Học kì II năm học 2020 - 2021
-* **Giảng viên:** Ths. Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
+* **Giảng viên:** Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
 * **Nhóm:** L21.N09
