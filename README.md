@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center"><b>CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
 
-## GIỚI THIỆU MÔN HỌC
+## MÔN HỌC
 * **Môn học:** PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - CS112
 * **Lớp:** CS112.L21
 * **Năm học:** Học kì II năm học 2020 - 2021
