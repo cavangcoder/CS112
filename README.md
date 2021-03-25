@@ -20,5 +20,3 @@
 ## Quá trình học tập
 
 - [x] [Tuần_3](Week_3)
-  - [x] [BOT - Trạm thu phí](Week_3/BOT.ipynb)
-  - [x] [SEAWEED - Tảo biển](Week_3/SEAWEED.ipynb)
