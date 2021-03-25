@@ -27,7 +27,7 @@
 * **Tên nhóm:** L21.N09
 
 | STT | Họ tên | MSSV | Vai trò | Email |
-| :---: | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | 1 | Phạm Thành Luân | 19520154 | Nhóm trưởng | 19520154@gm.uit.edu.vn | 
 | 2 | Huỳnh Văn Hùng | 19521564 | Thành viên | 19521564@gm.uit.edu.vn | 
 | 3 | Cao Đức Trí | 19520305 | Thành viên | 19520305@gm.uit.edu.vn |
