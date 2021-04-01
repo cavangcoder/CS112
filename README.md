@@ -19,4 +19,5 @@
 
 ## Quá trình học tập
 
-- [x] [Tuần_3](Week_3)
+- [Tuần_3](Week_3)
+- [Tuần_4](Week_4) 
