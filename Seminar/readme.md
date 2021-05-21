@@ -1,3 +1,5 @@
+## Bài tập
+- [Hacker Rank](https://www.hackerrank.com/contests/geometric-algorithms/challenges?fbclid=IwAR1mlZM7jfuwte87lWqpjglkOzSttl8LyPRaUFbQeWX4oxwFxjMUXpTAJto)
 ## Tài liệu tham khảo
 
 * Convex Hull
