@@ -24,4 +24,4 @@
 - [Tuần_6](Week_6)
 
 ## Thuyết trình
-- [PowerPoint](Seminar)
+- [Tài liệu](Seminar)
