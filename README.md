@@ -17,7 +17,7 @@
 | Cao Đức Trí | 19520305 | 19520305@gm.uit.edu.vn |
 | Đỗ Minh Trí | 19520307 | 19520307@gm.uit.edu.vn |
 
-## Quá trình học tập
+## Báo cáo bài tập trên Wecode
 
 - [Tuần_3](Week_3)
 - [Tuần_4](Week_4) 
