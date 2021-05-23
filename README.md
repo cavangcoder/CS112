@@ -19,9 +19,10 @@
 
 ## Báo cáo bài tập trên Wecode
 
-- [Tuần_3](Week_3)
-- [Tuần_4](Week_4) 
-- [Tuần_6](Week_6)
+- [Bài tập thực hành 1](Week_3)
+- [Bài tập thực hành 2](Week_4) 
+- [Bài tập thực hành 3](Week_6)
+- [Bài tập thực hành 4](Week_10)
 
 ## Thuyết trình
 - [Tài liệu](Seminar)
