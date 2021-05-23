@@ -25,3 +25,4 @@
 
 ## Thuyết trình
 - [Tài liệu](Seminar)
+- [Bài tập trên HackerRank](https://www.hackerrank.com/contests/geometric-algorithms/challenges)
