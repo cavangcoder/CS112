@@ -1,2 +1,2 @@
-- [SỬA HÀNG RÀO](VQ21_Wall.ipynb)
+- [SỬA HÀNG RÀO](VQ21_wall.ipynb)
 - [PHÂN SỐ](VU20_FRACTION.ipynb)
