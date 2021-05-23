@@ -1,1 +1,2 @@
-Hello
+- [SỬA HÀNG RÀO](VQ21_Wall.ipynb)
+- [PHÂN SỐ](VU20_FRACTION.ipynb)
