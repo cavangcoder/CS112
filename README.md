@@ -24,6 +24,6 @@
 - [Bài tập thực hành 3](Week_6)
 - [Bài tập thực hành 4](Week_10)
 
-## Thuyết trình
+## Báo cáo về các thuật toán hình học
 - [Tài liệu](Seminar)
 - [Bài tập trên HackerRank](https://www.hackerrank.com/contests/geometric-algorithms/challenges)
