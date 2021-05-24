@@ -1,3 +1,7 @@
+## Code mẫu bao lồi
+- [Convex Hull](convexhull_public.py)
+## Slide PowerPoint
+- [PPT](CS112.pptx)
 ## Bài tập
 - [Hacker Rank](https://www.hackerrank.com/contests/geometric-algorithms/challenges?fbclid=IwAR1mlZM7jfuwte87lWqpjglkOzSttl8LyPRaUFbQeWX4oxwFxjMUXpTAJto)
 ## Tài liệu tham khảo
