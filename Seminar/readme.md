@@ -4,7 +4,7 @@
 ## Bài tập
 - [Hacker Rank](https://www.hackerrank.com/contests/geometric-algorithms/challenges?fbclid=IwAR1mlZM7jfuwte87lWqpjglkOzSttl8LyPRaUFbQeWX4oxwFxjMUXpTAJto)
 - [Code thảm khảo Convexhull](convexhull.py)
-- [Code tham khảo Triland](Triland.py)
+- [Code tham khảo Triland](triland.py)
 
 ## Tài liệu tham khảo
 
