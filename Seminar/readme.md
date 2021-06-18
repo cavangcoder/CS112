@@ -22,3 +22,24 @@
 
 + https://www.cc.gatech.edu/~afb/classes/CS4495-Fall2013/slides/CS4495-03-Hough.pdf
 + https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html
+
+## Bảng chấm bài thực hành
+ Nhóm| Điểm | 
+| --- | --- |
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 | 10  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 10 |  |
+| 11 |  |
+| 12 | 9 |
+| 13 |  |
+| 14 |  |
+| 15 | 9 |
+| 16 |  |
+| 17 |  |
+| 18 |  |
