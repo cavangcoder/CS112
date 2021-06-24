@@ -47,7 +47,7 @@ for i in range(n-2) :
             j += 1
         ans = max(ans,ccw(convex_hull[i],convex_hull[j],convex_hull[k]))
 
-print(ans>>1) #  ans>>1 = ans // 2
+print(ans>>1, end ="") #  ans>>1 = ans // 2
 if ans % 2 == 0 :
     print(".0")
 else :
